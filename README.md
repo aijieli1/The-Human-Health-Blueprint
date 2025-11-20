@@ -1,4 +1,5 @@
 ![blueprint](blueprint.jpg)
+<img src="blueprint.jpg" alt="blueprint" width="300"/>
 
 # Paper Figures Code
 
