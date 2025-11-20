@@ -1,5 +1,4 @@
-![blueprint](blueprint.jpg)
-<img src="blueprint.jpg" alt="blueprint" width="500"/>
+<img src="blueprint.jpg" alt="blueprint" width="900"/>
 
 # Paper Figures Code
 
