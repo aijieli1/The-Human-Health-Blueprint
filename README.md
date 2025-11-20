@@ -1,4 +1,4 @@
-<img src="blueprint.jpg" alt="blueprint" width="900"/>
+<img src="blueprint.jpg" alt="blueprint" width="800"/>
 
 # Paper Figures Code
 
