@@ -1,3 +1,5 @@
+![blueprint](blueprint.jpg)
+
 # Paper Figures Code
 
 This folder contains the code used to generate the figures for the paper:
