@@ -21,5 +21,5 @@ TBA (will be updated once the paper is public)
    ```bash
    git clone https://github.com/username/reponame.git
 
-If you have any questions about this repo, please open an issue or contact **aijie li 01**.  
+If you have any questions about this repo, please open an issue or contact **aijie li**.  
 - [Email](mailto:your_email@example.com)
