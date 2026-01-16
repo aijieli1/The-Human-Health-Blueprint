@@ -14,9 +14,8 @@ TBA (will be updated once the paper is public)
 - scripts and notebooks for each figure
 
 ## Requirements
-- Python 3.10+
-- Packages: numpy, pandas, xxxxx
-- R version xxxxxx
+- Python 3.8+
+- R version 4.3.2+
 
 ## Usage
 1. Clone this repository:
