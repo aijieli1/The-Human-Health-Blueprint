@@ -5,7 +5,7 @@
 This folder contains the code used to generate the figures for the paper:
 
 **Paper Title**  
-Author(s): Annie  
+Author(s): Aijie Li❤
 
 ## Link to paper
 TBA (will be updated once the paper is public)  
